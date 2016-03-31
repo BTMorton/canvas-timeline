@@ -1,0 +1,30 @@
+{
+  "name": "canvas-timeline",
+  "version": "0.0.0",
+  "description": "A JS canvas implementation of a timeline",
+  "main": "timeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BTMorton/canvas-timeline.git"
+  },
+  "keywords": [
+    "timeline",
+    "canvas",
+    "javascript"
+  ],
+  "author": "Ben Morton <ben.morton91@gmail.com> (http://bmorton.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BTMorton/canvas-timeline/issues"
+  },
+  "homepage": "https://github.com/BTMorton/canvas-timeline#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.12.1",
+    "merge2": "^1.0.1"
+  }
+}
